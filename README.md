@@ -63,10 +63,8 @@ The plugin is written in Object Pascal for Lazarus / Free Pascal.
 
 The runtime entry point is `ScriptHookVAsiPlugin.lpr`, with the inherited `scripthookv.pas` and `natives.pas` bindings. The inherited `menus.pas` file is retained from upstream but is not used by the Lite script. Build artifacts and unrelated experimental projects from the working archive are not included in this source update.
 
-## Credits
+## Acknowledgements
 
-- **JupiterKasparov / Jupiter (Chappy Hochmann)** — original Character Swapper source and hash-changing implementation. Thank you for publishing the source and making this modification possible.
-- **dougieprishpreed** — simplified automatic startup hash assignment and Lite configuration.
-- **Alexander Blade** — Script Hook V.
+Thanks to the original project's author for sharing the source and hash-changing implementation that made this modification possible, and to the developers of Script Hook V and the supporting tools.
 
 Original project: [GTAV_CharSwap_Advanced](https://github.com/JupiterKasparov/GTAV_CharSwap_Advanced).
