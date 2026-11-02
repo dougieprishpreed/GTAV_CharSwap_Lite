@@ -1,0 +1,21 @@
+# Compiled plugin and Free Pascal build output
+*.asi
+*.dll
+*.exe
+*.o
+*.ppu
+*.a
+*.or
+*.compiled
+*.dbg
+*.map
+/lib/
+
+# Lazarus session files and editor backups
+*.lps
+*.bak
+*.~*
+*~
+/backup/
+/.vs/
+/.idea/

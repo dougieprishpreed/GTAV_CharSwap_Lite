@@ -58,7 +58,7 @@
     <Version Value="11"/>
     <PathDelim Value="\"/>
     <Target>
-      <Filename Value="Jupiter_CharSwap_1.asi" ApplyConventions="False"/>
+      <Filename Value="Jupiter_CharSwap_Lite.asi" ApplyConventions="False"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
